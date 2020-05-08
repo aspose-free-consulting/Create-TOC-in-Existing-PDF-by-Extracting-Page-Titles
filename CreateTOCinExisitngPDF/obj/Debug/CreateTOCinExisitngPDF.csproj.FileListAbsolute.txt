@@ -1,0 +1,12 @@
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\bin\Debug\CreateTOCinExisitngPDF.exe
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\bin\Debug\CreateTOCinExisitngPDF.pdb
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\bin\Debug\Aspose.PDF.dll
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\bin\Debug\Aspose.PDF.xml
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.csprojAssemblyReference.cache
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.Form1.resources
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.Properties.Resources.resources
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.csproj.GenerateResource.cache
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.csproj.CoreCompileInputs.cache
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.csproj.CopyComplete
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.exe
+C:\Users\Affabel Adonis\Downloads\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\CreateTOCinExisitngPDF\obj\Debug\CreateTOCinExisitngPDF.pdb
