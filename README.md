@@ -30,4 +30,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consulting project is based on the following issue:
 
-[ create a project that does Epub to PDF, Preview PDF converter](https://github.com/aspose-free-consulting/projects/issues/16#issuecomment-564834044)
+create a project that does Epub to PDF, Preview PDF converter: github.com/aspose-free-consulting/projects/issues/16#issuecomment-564834044
